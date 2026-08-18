@@ -319,3 +319,34 @@ An interactive portfolio showcasing projects, technical skills, and experience.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F7,50:2C5364,100:0F2027&height=120&section=footer"/>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day
+  push:
+    branches:
+      - main
+  workflow_dispatch: {}
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake game from GitHub contribution grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ShxshvxtSxth
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
