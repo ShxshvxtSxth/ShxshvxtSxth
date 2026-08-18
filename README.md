@@ -181,62 +181,13 @@ I enjoy solving problems across:
 
 ---
 
-# Currently Exploring
-
-```text
-Generative AI
-      ↓
-LLMs & Transformers
-      ↓
-Embeddings & Vector Databases
-      ↓
-RAG & Context Engineering
-      ↓
-Tool Calling & Function Calling
-      ↓
-AI Agents
-      ↓
-Agentic AI
-      ↓
-Multimodal AI
-      ↓
-Production AI Systems
-```
-
-Currently deepening my knowledge of:
-
-* Large Language Models
-* Retrieval-Augmented Generation
-* Agentic AI architectures
-* Multimodal AI
-* AI evaluation
-* AI security and guardrails
-* Vector databases
-* Context engineering
-* Model optimization
-* AI system design
-* Cloud deployment
-* DevOps
-
----
-
-# Career Focus
-
-I’m interested in building and working on:
-
-**Generative AI · Agentic AI · AI Agents · LLM Applications · RAG Systems · Multimodal AI · AI Engineering · Full-Stack Development · Healthcare AI**
-
-My long-term goal is to build **production-grade intelligent systems that solve meaningful real-world problems**.
-
----
-
 # GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShxshvxtSxth&show_icons=true&hide_border=true&theme=transparent" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShxshvxtSxth&hide_border=true&theme=transparent" />
 
 </div>
 
