@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA3F7&height=220&section=header&text=Shashvat%20Seth&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Generative%20AI%20%26%20Agentic%20AI&descSize=18&descAlignY=58" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Shashvat Seth — Software Engineer, Generative AI &amp; Agentic AI"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2EA3F7&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Systems;Generative+AI+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Agentic+AI;Full-Stack+Engineer+%7C+Healthcare+AI+Enthusiast;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
 
@@ -23,18 +23,16 @@
 <br/>
 
 <div align="center">
-  <a href="#about-me">About</a> •
-  <a href="#current-work">Current Work</a> •
-  <a href="#ai--emerging-tech">AI Focus</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#github-stats">Stats</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#lets-connect">Connect</a>
+  <a href="#-about-me">About</a> &nbsp;·&nbsp;
+  <a href="#-ai--emerging-technologies">AI Focus</a> &nbsp;·&nbsp;
+  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+  <a href="#-github-stats">Stats</a> &nbsp;·&nbsp;
+  <a href="#-featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#-lets-connect">Connect</a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA3F7,100:0F2027&height=3&width=100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<a id="about-me"></a>
 ## 👋 About Me
 
 I'm a **Software Engineer** focused on **Generative AI, Agentic AI, LLMs, RAG, Multimodal AI, and Full-Stack Engineering**, driven by a passion for **problem solving** and **building production-ready systems**.
@@ -43,65 +41,18 @@ I'm a **Software Engineer** focused on **Generative AI, Agentic AI, LLMs, RAG, M
 shashvat:
   role: "Software Engineer"
   focus: ["Generative AI", "Agentic AI", "RAG", "LLMs", "Full-Stack"]
-  currently_building: "Chikitsa HIMS @ Vigorus.AI"
   passion: "AI-powered Healthcare Solutions"
   status: "Always learning, always shipping 🚀"
 ```
 
-- 🔭 Currently building **Chikitsa HIMS**, a healthcare information management system, as a **Software Engineering Intern at Vigorus.AI**
 - 🧠 Deep-diving into **LLMs, RAG, AI Agents & Agentic Workflows**
 - 💻 Experienced in **Full-Stack Web Development** with modern frameworks
 - 🏥 Especially passionate about **AI-powered Healthcare** solutions
 - 🌱 Exploring **AI Engineering, Cloud, DevOps, AI Security, Guardrails & Model Evaluation**
 - ⚡ Fun fact: I love turning research-grade AI ideas into scalable, real-world products
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA3F7,100:0F2027&height=3&width=100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<a id="current-work"></a>
-## 🏢 Current Work — Chikitsa HIMS
-
-<details open>
-<summary><b>🩺 Building modern healthcare interfaces & workflows — click to collapse</b></summary>
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Focus Areas**
-- Healthcare & EMR workflows
-- Production-grade frontend architecture
-- Reusable UI components
-- API integration & server-side data management
-- Form management & validation
-- Drag-and-drop interfaces
-- Role-based application workflows
-
-</td>
-<td valign="top" width="50%">
-
-**Tech Used**
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
-![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-000?style=flat-square)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA3F7,100:0F2027&height=3&width=100%"/>
-
-<a id="ai--emerging-tech"></a>
 ## 🧠 AI & Emerging Technologies
 
 <table>
@@ -109,27 +60,30 @@ shashvat:
 <td valign="top" width="50%">
 
 **Generative AI**
+
 `LLMs` `RAG` `Embeddings` `Vector Databases` `Prompt Engineering` `Context Engineering`
 
 **Agentic AI**
+
 `AI Agents` `Agentic Workflows` `Tool/Function Calling` `LangChain` `LangGraph`
 
 </td>
 <td valign="top" width="50%">
 
 **Modern AI**
+
 `Transformers` `Multimodal AI` `NLP` `Deep Learning` `Model Evaluation`
 
 **AI Reliability & Security**
-`Guardrails` `AI Security` `Prompt Safety` `Model Evaluation`
+
+`Guardrails` `AI Security` `Prompt Safety` `Evaluation Harnesses`
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA3F7,100:0F2027&height=3&width=100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -206,15 +160,17 @@ shashvat:
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA3F7,100:0F2027&height=3&width=100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<a id="github-stats"></a>
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShxshvxtSxth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShxshvxtSxth&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="assets/metrics.svg" width="88%" alt="GitHub metrics"/>
+
+<br/>
+
+<img src="assets/metrics-calendar.svg" width="88%" alt="Contribution calendar"/>
 
 <br/>
 
@@ -222,46 +178,24 @@ shashvat:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShxshvxtSxth&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShxshvxtSxth&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+<img src="assets/metrics-achievements.svg" width="70%" alt="GitHub achievements"/>
 
 </div>
 
-<details>
-<summary><b>⚠️ If a stats card doesn't load</b></summary>
+### 🐍 Contribution Snake
 
-<br/>
+<div align="center">
 
-The stats/streak/trophy cards above call free shared services (Vercel/community-hosted) that occasionally hit rate limits under heavy traffic — this is a known, common issue and not specific to your profile. Two fixes:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShxshvxtSxth/ShxshvxtSxth/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShxshvxtSxth/ShxshvxtSxth/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/ShxshvxtSxth/ShxshvxtSxth/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
+</picture>
 
-1. **Quickest:** open the broken image's URL directly in a browser tab — if it loads there, just re-save the README (or wait a few minutes) and it'll come back.
-2. **Permanent fix:** self-host your own instance on Vercel (one-click "Deploy" button on each project's GitHub repo) and swap the domain in the URL for your own — this removes the shared rate limit entirely.
+</div>
 
-The terminal banner above and the contribution snake below don't have this problem since they're static assets rendered once and committed to your repo.
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-</details>
-
-<details>
-<summary><b>🐍 Contribution Snake (animated) — one-time setup</b></summary>
-
-<br/>
-
-Add this to your profile README after setup — it animates a snake eating your contribution graph:
-
-```markdown
-![snake gif](https://raw.githubusercontent.com/ShxshvxtSxth/ShxshvxtSxth/output/github-contribution-grid-snake-dark.svg)
-```
-
-A ready-to-use GitHub Actions workflow (`snake.yml`) is included as a separate file — drop it into `.github/workflows/` in your **`ShxshvxtSxth/ShxshvxtSxth`** repo, enable workflow permissions, and it will regenerate the animation automatically on every push.
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA3F7,100:0F2027&height=3&width=100%"/>
-
-<a id="featured-projects"></a>
 ## 🌟 Featured Projects
 
 <details open>
@@ -312,20 +246,24 @@ An interactive portfolio showcasing projects, technical skills, and experience.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA3F7,100:0F2027&height=3&width=100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🧩 Problem Solving
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-informational?style=for-the-badge&color=2EA3F7"/> <img src="https://img.shields.io/badge/System%20Design-informational?style=for-the-badge&color=2EA3F7"/> <img src="https://img.shields.io/badge/Software%20Architecture-informational?style=for-the-badge&color=2EA3F7"/>
-<img src="https://img.shields.io/badge/API%20Design-informational?style=for-the-badge&color=2EA3F7"/> <img src="https://img.shields.io/badge/AI%20Engineering-informational?style=for-the-badge&color=2EA3F7"/> <img src="https://img.shields.io/badge/Application%20Security-informational?style=for-the-badge&color=2EA3F7"/> <img src="https://img.shields.io/badge/Performance%20Optimization-informational?style=for-the-badge&color=2EA3F7"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-informational?style=for-the-badge&color=2EA3F7"/>
+<img src="https://img.shields.io/badge/System%20Design-informational?style=for-the-badge&color=2EA3F7"/>
+<img src="https://img.shields.io/badge/Software%20Architecture-informational?style=for-the-badge&color=2EA3F7"/>
+<img src="https://img.shields.io/badge/API%20Design-informational?style=for-the-badge&color=2EA3F7"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-informational?style=for-the-badge&color=2EA3F7"/>
+<img src="https://img.shields.io/badge/Application%20Security-informational?style=for-the-badge&color=2EA3F7"/>
+<img src="https://img.shields.io/badge/Performance%20Optimization-informational?style=for-the-badge&color=2EA3F7"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EA3F7,100:0F2027&height=3&width=100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<a id="lets-connect"></a>
 ## 📫 Let's Connect
 
 <div align="center">
@@ -340,4 +278,4 @@ An interactive portfolio showcasing projects, technical skills, and experience.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F7,50:2C5364,100:0F2027&height=120&section=footer"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
