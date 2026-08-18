@@ -181,23 +181,10 @@ I enjoy solving problems across:
 
 ---
 
-# GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShxshvxtSxth&show_icons=true&hide_border=true&theme=transparent" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShxshvxtSxth&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
 # Connect With Me
 
-* LinkedIn: **YOUR_LINKEDIN**
-* Portfolio: **YOUR_PORTFOLIO**
-* Email: **YOUR_EMAIL**
+* LinkedIn: https://www.linkedin.com/in/shashvat-seth-516472364
+* Email: sethshashvat18@gmail.com
 
 ---
 
