@@ -172,10 +172,6 @@ shashvat:
 
 <div align="center">
 
-<img src="assets/metrics.svg" width="88%" alt="GitHub metrics"/>
-
-<br/>
-
 <img src="assets/metrics-calendar.svg" width="88%" alt="Contribution calendar"/>
 
 <br/>
