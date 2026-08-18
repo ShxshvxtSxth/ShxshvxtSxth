@@ -1,0 +1,163 @@
+<svg viewBox="0 0 1200 260" width="100%" height="260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050708"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="fadeTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeBottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1200" height="260" rx="14"/>
+    </clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes fall {
+        0%   { transform: translateY(-260px); }
+        100% { transform: translateY(260px); }
+      }
+      .rain-col {
+        animation-name: fall;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+      }
+      @keyframes blinkCursor {
+        0%, 45% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .cursor {
+        animation: blinkCursor 1s steps(1) infinite;
+      }
+      @keyframes flicker {
+        0%, 92%, 100% { opacity: 1; }
+        94% { opacity: 0.85; }
+        96% { opacity: 1; }
+      }
+      .term-text {
+        animation: flicker 6s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect x="0" y="0" width="1200" height="260" fill="url(#bgGrad)"/>
+
+    <!-- matrix code rain -->
+    <g filter="url(#glow)" opacity="0.55">
+      <g class="rain-col" style="animation-duration:7.47s; animation-delay:-1.47s;" transform="translate(18,-228)">
+    <text font-family="Consolas, monospace" font-size="14" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">}</tspan><tspan x="0" dy="17" opacity="0.83">F</tspan><tspan x="0" dy="17" opacity="0.67">{</tspan><tspan x="0" dy="17" opacity="0.5">a</tspan><tspan x="0" dy="17" opacity="0.33">B</tspan><tspan x="0" dy="17" opacity="0.17">1</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:5.37s; animation-delay:-3.03s;" transform="translate(61,-183)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">/</tspan><tspan x="0" dy="16" opacity="0.83">F</tspan><tspan x="0" dy="16" opacity="0.67">B</tspan><tspan x="0" dy="16" opacity="0.5">;</tspan><tspan x="0" dy="16" opacity="0.33">C</tspan><tspan x="0" dy="16" opacity="0.17">a</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:7.54s; animation-delay:-0.96s;" transform="translate(115,-127)">
+    <text font-family="Consolas, monospace" font-size="16" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">=</tspan><tspan x="0" dy="19" opacity="0.83"><</tspan><tspan x="0" dy="19" opacity="0.67">/</tspan><tspan x="0" dy="19" opacity="0.5">*</tspan><tspan x="0" dy="19" opacity="0.33">}</tspan><tspan x="0" dy="19" opacity="0.17">{</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:5.94s; animation-delay:-2.06s;" transform="translate(165,-246)">
+    <text font-family="Consolas, monospace" font-size="15" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">1</tspan><tspan x="0" dy="18" opacity="0.83">C</tspan><tspan x="0" dy="18" opacity="0.67">F</tspan><tspan x="0" dy="18" opacity="0.5">}</tspan><tspan x="0" dy="18" opacity="0.33">A</tspan><tspan x="0" dy="18" opacity="0.17">{</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:6.97s; animation-delay:-5.17s;" transform="translate(208,-220)">
+    <text font-family="Consolas, monospace" font-size="14" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">{</tspan><tspan x="0" dy="17" opacity="0.91">1</tspan><tspan x="0" dy="17" opacity="0.82">;</tspan><tspan x="0" dy="17" opacity="0.73">#</tspan><tspan x="0" dy="17" opacity="0.64">{</tspan><tspan x="0" dy="17" opacity="0.55">;</tspan><tspan x="0" dy="17" opacity="0.45">}</tspan><tspan x="0" dy="17" opacity="0.36">A</tspan><tspan x="0" dy="17" opacity="0.27">=</tspan><tspan x="0" dy="17" opacity="0.18">C</tspan><tspan x="0" dy="17" opacity="0.09">+</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:5.92s; animation-delay:-4.02s;" transform="translate(250,-195)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">></tspan><tspan x="0" dy="16" opacity="0.88">F</tspan><tspan x="0" dy="16" opacity="0.75">;</tspan><tspan x="0" dy="16" opacity="0.62">></tspan><tspan x="0" dy="16" opacity="0.5">C</tspan><tspan x="0" dy="16" opacity="0.38">A</tspan><tspan x="0" dy="16" opacity="0.25">=</tspan><tspan x="0" dy="16" opacity="0.12">F</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:5.8s; animation-delay:-4.61s;" transform="translate(299,-98)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">1</tspan><tspan x="0" dy="16" opacity="0.91">*</tspan><tspan x="0" dy="16" opacity="0.82">A</tspan><tspan x="0" dy="16" opacity="0.73">=</tspan><tspan x="0" dy="16" opacity="0.64">{</tspan><tspan x="0" dy="16" opacity="0.55">/</tspan><tspan x="0" dy="16" opacity="0.45">a</tspan><tspan x="0" dy="16" opacity="0.36">*</tspan><tspan x="0" dy="16" opacity="0.27">/</tspan><tspan x="0" dy="16" opacity="0.18">D</tspan><tspan x="0" dy="16" opacity="0.09">A</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:5.56s; animation-delay:-1.48s;" transform="translate(352,-231)">
+    <text font-family="Consolas, monospace" font-size="15" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">a</tspan><tspan x="0" dy="18" opacity="0.86">B</tspan><tspan x="0" dy="18" opacity="0.71">a</tspan><tspan x="0" dy="18" opacity="0.57">A</tspan><tspan x="0" dy="18" opacity="0.43">+</tspan><tspan x="0" dy="18" opacity="0.29">;</tspan><tspan x="0" dy="18" opacity="0.14"><</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:4.86s; animation-delay:-0.28s;" transform="translate(400,-79)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">></tspan><tspan x="0" dy="16" opacity="0.89">B</tspan><tspan x="0" dy="16" opacity="0.78">i</tspan><tspan x="0" dy="16" opacity="0.67">{</tspan><tspan x="0" dy="16" opacity="0.56">A</tspan><tspan x="0" dy="16" opacity="0.44">A</tspan><tspan x="0" dy="16" opacity="0.33">i</tspan><tspan x="0" dy="16" opacity="0.22">C</tspan><tspan x="0" dy="16" opacity="0.11">E</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:7.94s; animation-delay:-0.07s;" transform="translate(438,-214)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">F</tspan><tspan x="0" dy="16" opacity="0.9">=</tspan><tspan x="0" dy="16" opacity="0.8">*</tspan><tspan x="0" dy="16" opacity="0.7">}</tspan><tspan x="0" dy="16" opacity="0.6">#</tspan><tspan x="0" dy="16" opacity="0.5">B</tspan><tspan x="0" dy="16" opacity="0.4">></tspan><tspan x="0" dy="16" opacity="0.3">C</tspan><tspan x="0" dy="16" opacity="0.2">0</tspan><tspan x="0" dy="16" opacity="0.1">=</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:6.53s; animation-delay:-0.64s;" transform="translate(492,-255)">
+    <text font-family="Consolas, monospace" font-size="15" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">E</tspan><tspan x="0" dy="18" opacity="0.86">i</tspan><tspan x="0" dy="18" opacity="0.71">/</tspan><tspan x="0" dy="18" opacity="0.57"><</tspan><tspan x="0" dy="18" opacity="0.43">+</tspan><tspan x="0" dy="18" opacity="0.29">></tspan><tspan x="0" dy="18" opacity="0.14">F</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:6.9s; animation-delay:-2.93s;" transform="translate(538,-132)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">#</tspan><tspan x="0" dy="16" opacity="0.83">;</tspan><tspan x="0" dy="16" opacity="0.67">1</tspan><tspan x="0" dy="16" opacity="0.5">;</tspan><tspan x="0" dy="16" opacity="0.33">a</tspan><tspan x="0" dy="16" opacity="0.17">{</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:6.44s; animation-delay:-0.42s;" transform="translate(570,-72)">
+    <text font-family="Consolas, monospace" font-size="14" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">D</tspan><tspan x="0" dy="17" opacity="0.91">F</tspan><tspan x="0" dy="17" opacity="0.82">></tspan><tspan x="0" dy="17" opacity="0.73">=</tspan><tspan x="0" dy="17" opacity="0.64">E</tspan><tspan x="0" dy="17" opacity="0.55">i</tspan><tspan x="0" dy="17" opacity="0.45">B</tspan><tspan x="0" dy="17" opacity="0.36">/</tspan><tspan x="0" dy="17" opacity="0.27">F</tspan><tspan x="0" dy="17" opacity="0.18">/</tspan><tspan x="0" dy="17" opacity="0.09">#</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:7.1s; animation-delay:-2.63s;" transform="translate(627,-70)">
+    <text font-family="Consolas, monospace" font-size="16" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">;</tspan><tspan x="0" dy="19" opacity="0.91">;</tspan><tspan x="0" dy="19" opacity="0.82">{</tspan><tspan x="0" dy="19" opacity="0.73">*</tspan><tspan x="0" dy="19" opacity="0.64">0</tspan><tspan x="0" dy="19" opacity="0.55">a</tspan><tspan x="0" dy="19" opacity="0.45">F</tspan><tspan x="0" dy="19" opacity="0.36">;</tspan><tspan x="0" dy="19" opacity="0.27">a</tspan><tspan x="0" dy="19" opacity="0.18">;</tspan><tspan x="0" dy="19" opacity="0.09">0</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:7.02s; animation-delay:-1.37s;" transform="translate(663,-260)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">*</tspan><tspan x="0" dy="16" opacity="0.91">{</tspan><tspan x="0" dy="16" opacity="0.82">E</tspan><tspan x="0" dy="16" opacity="0.73">;</tspan><tspan x="0" dy="16" opacity="0.64">=</tspan><tspan x="0" dy="16" opacity="0.55">D</tspan><tspan x="0" dy="16" opacity="0.45">/</tspan><tspan x="0" dy="16" opacity="0.36">F</tspan><tspan x="0" dy="16" opacity="0.27"><</tspan><tspan x="0" dy="16" opacity="0.18">a</tspan><tspan x="0" dy="16" opacity="0.09">a</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:7.64s; animation-delay:-4.84s;" transform="translate(722,-64)">
+    <text font-family="Consolas, monospace" font-size="14" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">}</tspan><tspan x="0" dy="17" opacity="0.86">B</tspan><tspan x="0" dy="17" opacity="0.71">+</tspan><tspan x="0" dy="17" opacity="0.57">B</tspan><tspan x="0" dy="17" opacity="0.43">B</tspan><tspan x="0" dy="17" opacity="0.29">C</tspan><tspan x="0" dy="17" opacity="0.14">1</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:6.11s; animation-delay:-2.04s;" transform="translate(756,-103)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">/</tspan><tspan x="0" dy="16" opacity="0.83">/</tspan><tspan x="0" dy="16" opacity="0.67">F</tspan><tspan x="0" dy="16" opacity="0.5">C</tspan><tspan x="0" dy="16" opacity="0.33"><</tspan><tspan x="0" dy="16" opacity="0.17">B</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:6.35s; animation-delay:-5.25s;" transform="translate(804,-153)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">F</tspan><tspan x="0" dy="16" opacity="0.88">}</tspan><tspan x="0" dy="16" opacity="0.75">1</tspan><tspan x="0" dy="16" opacity="0.62">F</tspan><tspan x="0" dy="16" opacity="0.5">0</tspan><tspan x="0" dy="16" opacity="0.38">{</tspan><tspan x="0" dy="16" opacity="0.25">;</tspan><tspan x="0" dy="16" opacity="0.12">></tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:6.43s; animation-delay:-5.19s;" transform="translate(858,-82)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">A</tspan><tspan x="0" dy="16" opacity="0.89">0</tspan><tspan x="0" dy="16" opacity="0.78">A</tspan><tspan x="0" dy="16" opacity="0.67">=</tspan><tspan x="0" dy="16" opacity="0.56">C</tspan><tspan x="0" dy="16" opacity="0.44">#</tspan><tspan x="0" dy="16" opacity="0.33">B</tspan><tspan x="0" dy="16" opacity="0.22">F</tspan><tspan x="0" dy="16" opacity="0.11">D</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:5.69s; animation-delay:-5.81s;" transform="translate(896,-231)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">*</tspan><tspan x="0" dy="16" opacity="0.86">1</tspan><tspan x="0" dy="16" opacity="0.71">1</tspan><tspan x="0" dy="16" opacity="0.57">a</tspan><tspan x="0" dy="16" opacity="0.43">D</tspan><tspan x="0" dy="16" opacity="0.29">E</tspan><tspan x="0" dy="16" opacity="0.14">E</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:8.34s; animation-delay:-0.48s;" transform="translate(943,-57)">
+    <text font-family="Consolas, monospace" font-size="14" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">i</tspan><tspan x="0" dy="17" opacity="0.83">{</tspan><tspan x="0" dy="17" opacity="0.67">;</tspan><tspan x="0" dy="17" opacity="0.5">A</tspan><tspan x="0" dy="17" opacity="0.33">}</tspan><tspan x="0" dy="17" opacity="0.17">a</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:6.88s; animation-delay:-3.72s;" transform="translate(991,-208)">
+    <text font-family="Consolas, monospace" font-size="16" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">a</tspan><tspan x="0" dy="19" opacity="0.9">a</tspan><tspan x="0" dy="19" opacity="0.8">E</tspan><tspan x="0" dy="19" opacity="0.7">*</tspan><tspan x="0" dy="19" opacity="0.6">=</tspan><tspan x="0" dy="19" opacity="0.5">/</tspan><tspan x="0" dy="19" opacity="0.4">*</tspan><tspan x="0" dy="19" opacity="0.3">;</tspan><tspan x="0" dy="19" opacity="0.2">=</tspan><tspan x="0" dy="19" opacity="0.1">A</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:7.08s; animation-delay:-2.74s;" transform="translate(1034,-42)">
+    <text font-family="Consolas, monospace" font-size="13" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">C</tspan><tspan x="0" dy="16" opacity="0.91">i</tspan><tspan x="0" dy="16" opacity="0.82">a</tspan><tspan x="0" dy="16" opacity="0.73">}</tspan><tspan x="0" dy="16" opacity="0.64">{</tspan><tspan x="0" dy="16" opacity="0.55">F</tspan><tspan x="0" dy="16" opacity="0.45">/</tspan><tspan x="0" dy="16" opacity="0.36">E</tspan><tspan x="0" dy="16" opacity="0.27">=</tspan><tspan x="0" dy="16" opacity="0.18"><</tspan><tspan x="0" dy="16" opacity="0.09">+</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:5.98s; animation-delay:-0.95s;" transform="translate(1078,-196)">
+    <text font-family="Consolas, monospace" font-size="15" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">E</tspan><tspan x="0" dy="18" opacity="0.86">0</tspan><tspan x="0" dy="18" opacity="0.71">F</tspan><tspan x="0" dy="18" opacity="0.57">#</tspan><tspan x="0" dy="18" opacity="0.43">}</tspan><tspan x="0" dy="18" opacity="0.29"><</tspan><tspan x="0" dy="18" opacity="0.14">=</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:7.47s; animation-delay:-0.93s;" transform="translate(1125,-194)">
+    <text font-family="Consolas, monospace" font-size="15" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">/</tspan><tspan x="0" dy="18" opacity="0.83">*</tspan><tspan x="0" dy="18" opacity="0.67">/</tspan><tspan x="0" dy="18" opacity="0.5">=</tspan><tspan x="0" dy="18" opacity="0.33">E</tspan><tspan x="0" dy="18" opacity="0.17">D</tspan></text>
+  </g>
+  <g class="rain-col" style="animation-duration:4.87s; animation-delay:-2.54s;" transform="translate(1176,-51)">
+    <text font-family="Consolas, monospace" font-size="15" fill="#39ff88"><tspan x="0" dy="0" opacity="1.0">0</tspan><tspan x="0" dy="18" opacity="0.83">*</tspan><tspan x="0" dy="18" opacity="0.67"><</tspan><tspan x="0" dy="18" opacity="0.5">=</tspan><tspan x="0" dy="18" opacity="0.33">></tspan><tspan x="0" dy="18" opacity="0.17">C</tspan></text>
+  </g>
+    </g>
+
+    <!-- top/bottom fade so rain doesn't look clipped -->
+    <rect x="0" y="0" width="1200" height="46" fill="url(#fadeTop)"/>
+    <rect x="0" y="214" width="1200" height="46" fill="url(#fadeBottom)"/>
+
+    <!-- subtle vignette border -->
+    <rect x="0" y="0" width="1200" height="260" rx="14" fill="none" stroke="#1f6feb" stroke-opacity="0.35" stroke-width="1.5"/>
+
+    <!-- terminal window -->
+    <g transform="translate(300.0,52.0)">
+      <rect x="0" y="0" width="600" height="156" rx="10" fill="#0b0f14" stroke="#30363d" stroke-width="1.2"/>
+      <rect x="0" y="0" width="600" height="26" rx="10" fill="#161b22"/>
+      <rect x="0" y="14" width="600" height="12" fill="#161b22"/>
+      <circle cx="18" cy="13" r="5.5" fill="#ff5f56"/>
+      <circle cx="36" cy="13" r="5.5" fill="#ffbd2e"/>
+      <circle cx="54" cy="13" r="5.5" fill="#27c93f"/>
+      <text x="300" y="17" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#8b949e">shashvat@dev: ~</text>
+
+      <g class="term-text" font-family="Consolas, monospace" font-size="14" fill="#c9d1d9">
+        <text x="20" y="52"><tspan fill="#58a6ff">$</tspan> whoami</text>
+        <text x="20" y="76"><tspan fill="#39ff88">&gt;</tspan> Shashvat Seth</text>
+        <text x="20" y="100"><tspan fill="#58a6ff">$</tspan> cat focus.txt</text>
+        <text x="20" y="124"><tspan fill="#39ff88">&gt;</tspan> Generative AI · Agentic AI · Full-Stack Engineering<tspan class="cursor" fill="#c9d1d9">_</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -14,6 +14,14 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+<img src="assets/coder-banner.svg" width="100%" alt="Terminal banner"/>
+</div>
+
+<br/>
+
 <div align="center">
   <a href="#about-me">About</a> •
   <a href="#current-work">Current Work</a> •
@@ -126,7 +134,7 @@ shashvat:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,java,ts,js,react,nextjs,tailwind,nodejs,spring,flask,fastapi,postgres,mongodb,prisma,aws,docker,git,github,vscode,postman&perline=8" alt="Skill Icons"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,java,ts,js,react,nextjs,tailwind,nodejs,spring,flask,fastapi,postgres,mongodb,prisma,aws,docker,git,github,vscode,postman&perline=8" alt="Skill Icons"/>
 
 </div>
 
@@ -210,7 +218,7 @@ shashvat:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShxshvxtSxth&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ShxshvxtSxth&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
@@ -221,6 +229,20 @@ shashvat:
 <img src="https://github-profile-trophy.vercel.app/?username=ShxshvxtSxth&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
+
+<details>
+<summary><b>⚠️ If a stats card doesn't load</b></summary>
+
+<br/>
+
+The stats/streak/trophy cards above call free shared services (Vercel/community-hosted) that occasionally hit rate limits under heavy traffic — this is a known, common issue and not specific to your profile. Two fixes:
+
+1. **Quickest:** open the broken image's URL directly in a browser tab — if it loads there, just re-save the README (or wait a few minutes) and it'll come back.
+2. **Permanent fix:** self-host your own instance on Vercel (one-click "Deploy" button on each project's GitHub repo) and swap the domain in the URL for your own — this removes the shared rate limit entirely.
+
+The terminal banner above and the contribution snake below don't have this problem since they're static assets rendered once and committed to your repo.
+
+</details>
 
 <details>
 <summary><b>🐍 Contribution Snake (animated) — one-time setup</b></summary>
@@ -319,34 +341,3 @@ An interactive portfolio showcasing projects, technical skills, and experience.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F7,50:2C5364,100:0F2027&height=120&section=footer"/>
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # runs once a day
-  push:
-    branches:
-      - main
-  workflow_dispatch: {}
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate the snake game from GitHub contribution grid
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ShxshvxtSxth
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
