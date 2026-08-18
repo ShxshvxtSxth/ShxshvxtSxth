@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.gif" width="720" alt="Shashvat Seth"/>
-
-<br/>
-
 <img src="assets/header.svg" width="100%" alt="Shashvat Seth — Software Engineer, Generative AI &amp; Agentic AI"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2EA3F7&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Systems;Generative+AI+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Agentic+AI;Full-Stack+Engineer+%7C+Healthcare+AI+Enthusiast;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
@@ -36,6 +32,12 @@
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
+
+<div align="center">
+
+<img src="assets/banner.gif" width="720" alt="Shashvat Seth"/>
+
+</div>
 
 ## 👋 About Me
 
