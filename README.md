@@ -1,195 +1,228 @@
-# Hi, I'm Shashvat Seth
+<div align="center">
 
-### Software Engineer | Generative AI | Agentic AI | Full-Stack Development
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Shashvat+Seth;Software+Engineer+%7C+Generative+AI+%26+Agentic+AI;Building+Production-Ready+AI+Systems;AI-Powered+Healthcare+Enthusiast" alt="Typing SVG" />
 
-Software Engineer focused on **Generative AI, Agentic AI, LLMs, RAG, Multimodal AI, AI Agents, and Full-Stack Engineering**, with a strong passion for **problem solving and building production-ready systems**.
+<br/>
 
-I enjoy exploring emerging technologies and transforming them into practical, scalable applications, with a particular interest in **AI-powered healthcare solutions**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashvat-seth-516472364)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethshashvat18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShxshvxtSxth)
 
----
-
-## About Me
-
-* Software Engineer with a focus on **AI and modern software engineering**
-* Building and exploring **Generative AI, LLMs, RAG, AI Agents, and Agentic AI**
-* Experienced in **Full-Stack Web Development**
-* Currently working on **Chikitsa HIMS**, a healthcare information management system
-* Interested in **Healthcare AI and intelligent healthcare applications**
-* Strong interest in **problem solving, system design, and scalable architectures**
-* Exploring **AI Engineering, Cloud, DevOps, AI Security, Guardrails, and Evaluation**
-* Continuously learning and experimenting with emerging AI technologies
+</div>
 
 ---
 
-# Current Work
+## 🚀 About Me
 
-## Chikitsa HIMS
+I'm a **Software Engineer** focused on **Generative AI, Agentic AI, LLMs, RAG, Multimodal AI, and Full-Stack Engineering**, driven by a passion for **problem solving** and **building production-ready systems**.
 
-Currently working as a **Software Engineering Intern at Vigorus.AI**, contributing to **Chikitsa HIMS / EMR**, a healthcare information management platform.
-
-My work focuses primarily on building and improving modern healthcare application interfaces and workflows.
-
-### Technology
-
-`Next.js` · `React.js` · `TypeScript` · `TanStack Query` · `Zustand` · `React Hook Form` · `Zod` · `React DnD` · `Shadcn UI` · `Tailwind CSS`
-
-### Areas of Work
-
-* Healthcare and EMR workflows
-* Production-grade frontend architecture
-* Reusable UI components
-* Server-side data management
-* API integration
-* Form management and validation
-* State management
-* Drag-and-drop interfaces
-* Data tables and complex administrative workflows
-* Role-based application workflows
-* Responsive and accessible interfaces
+- 🔭 Currently working on **Chikitsa HIMS**, a healthcare information management system, as a **Software Engineering Intern at Vigorus.AI**
+- 🧠 Deep diving into **Generative AI, LLMs, RAG, AI Agents & Agentic Workflows**
+- 💻 Experienced in **Full-Stack Web Development** with modern frameworks
+- 🏥 Especially passionate about **AI-powered Healthcare solutions**
+- 🌱 Currently exploring **AI Engineering, Cloud, DevOps, AI Security, Guardrails & Model Evaluation**
+- ⚡ Fun fact: I enjoy turning research-grade AI ideas into scalable, real-world applications
 
 ---
 
-# AI & Emerging Technologies
+## 🏢 Current Work — Chikitsa HIMS
 
-### Generative AI
+Building modern healthcare application interfaces and workflows as part of **Chikitsa HIMS / EMR**, a healthcare information management platform.
 
-`LLMs` · `RAG` · `Embeddings` · `Vector Databases` · `Prompt Engineering` · `Context Engineering`
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Agentic AI
+**Focus Areas**
+- Healthcare & EMR workflows
+- Production-grade frontend architecture
+- Reusable UI components
+- API integration & server-side data management
+- Form management & validation
+- Drag-and-drop interfaces
+- Role-based application workflows
 
-`AI Agents` · `Agentic Workflows` · `Tool Calling` · `Function Calling` · `LangChain` · `LangGraph`
+</td>
+<td valign="top" width="50%">
 
-### Modern AI
+**Tech Used**
+- Next.js · React.js · TypeScript
+- TanStack Query · Zustand
+- React Hook Form · Zod
+- React DnD
+- Shadcn UI · Tailwind CSS
 
-`Transformers` · `Multimodal AI` · `NLP` · `Deep Learning` · `Model Evaluation`
-
-### AI Engineering
-
-`Python` · `FastAPI` · `Hugging Face` · `PyTorch` · `TensorFlow` · `AI APIs`
-
-### AI Reliability & Security
-
-`AI Evaluation` · `Guardrails` · `AI Security` · `Prompt Safety` · `Model Evaluation`
-
----
-
-## Tech Stack
-
-### AI, GenAI & Agentic AI
-
-`Generative AI` · `LLMs` · `Agentic AI` · `AI Agents` · `RAG` · `LangChain` · `LangGraph` · `Transformers` · `Hugging Face` · `Prompt Engineering` · `Embeddings` · `Vector Databases` · `Multimodal AI` · `AI Evaluation` · `Guardrails`
-
-### Machine Learning & Deep Learning
-
-`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `NumPy` · `Pandas` · `OpenCV` · `Matplotlib` · `Seaborn`
-
-### Languages
-
-`Python` · `Java` · `TypeScript` · `JavaScript` · `SQL`
-
-### Frontend
-
-`React.js` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Shadcn UI` · `Radix UI` · `Framer Motion` · `Three.js`
-
-### Backend
-
-`Node.js` · `Spring Boot` · `FastAPI` · `Flask` · `REST APIs`
-
-### Databases & ORM
-
-`PostgreSQL` · `MongoDB` · `Prisma`
-
-### Cloud & DevOps
-
-`AWS EC2` · `AWS S3` · `AWS Lambda` · `API Gateway` · `CloudFront` · `IAM` · `CloudWatch` · `Docker` · `Git` · `GitHub`
-
-### AI & Data Tools
-
-`Tesseract OCR` · `Tokenization` · `NLP` · `CNNs` · `Transformers` · `Model Training` · `Model Evaluation`
-
-### Development Tools
-
-`VS Code` · `Git` · `GitHub` · `npm` · `pnpm` · `Vite` · `Postman`
+</td>
+</tr>
+</table>
 
 ---
 
-# Featured Projects
+## 🧠 AI & Emerging Technologies
 
-## Medicare — Doctor Appointment Platform
+<table>
+<tr>
+<td valign="top" width="50%">
 
-A full-stack healthcare platform designed to connect doctors and patients and support digital healthcare workflows.
+**Generative AI**
+`LLMs` `RAG` `Embeddings` `Vector Databases` `Prompt Engineering` `Context Engineering`
 
-### Features
+**Agentic AI**
+`AI Agents` `Agentic Workflows` `Tool/Function Calling` `LangChain` `LangGraph`
 
-* Doctor appointment booking and scheduling
-* Real-time video consultation
-* Medical history management
-* Prescription upload
-* Credit wallet system
-* Payment integration
-* Role-based access control
-* Notifications
-* Doctor and patient workflows
-* Administrative dashboard
+</td>
+<td valign="top" width="50%">
 
-**Tech:**
-`Next.js` · `React` · `TypeScript` · `Prisma` · `PostgreSQL` · `Vonage`
+**Modern AI**
+`Transformers` `Multimodal AI` `NLP` `Deep Learning` `Model Evaluation`
 
----
+**AI Reliability & Security**
+`Guardrails` `AI Security` `Prompt Safety` `Model Evaluation`
 
-## MedPredict — Maternal & Fetal Health Prediction
-
-A machine-learning platform focused on maternal and fetal health prediction.
-
-**Tech:**
-`Python` · `Flask` · `Scikit-learn` · `Machine Learning`
-
-**Focus:**
-`Healthcare AI` · `Predictive Analytics` · `Classification` · `Model Evaluation`
+</td>
+</tr>
+</table>
 
 ---
 
-## Personalized Medical Recommendation System
+## 🛠️ Tech Stack
 
-An ML-powered system designed to generate personalized medical recommendations based on patient information.
+**AI, GenAI & Agentic AI**
 
-**Tech:**
-`Python` · `Machine Learning` · `Flask` · `Scikit-learn`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/RAG%20%7C%20LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-4B8BBE?style=flat-square)
+
+**Machine Learning & Deep Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Databases & ORM**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Dev Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
-## Developer Portfolio
-
-Interactive portfolio showcasing projects, technical skills, and experience.
-
-**Tech:**
-`React` · `Three.js` · `EmailJS`
-
----
-
-# Problem Solving
-
-I enjoy solving problems across:
-
-`Data Structures & Algorithms`
-`System Design`
-`Software Architecture`
-`API Design`
-`AI Engineering`
-`Application Security`
-`Performance Optimization`
-
----
-
-# Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/shashvat-seth-516472364
-* Email: sethshashvat18@gmail.com
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-### Building at the intersection of AI, software, and real-world problems.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShxshvxtSxth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShxshvxtSxth&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShxshvxtSxth&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShxshvxtSxth&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
+
+</div>
+
+> 💡 Stats update automatically — powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+
+---
+
+## 🌟 Featured Projects
+
+### 🩺 [Medicare — Doctor Appointment Platform](https://github.com/ShxshvxtSxth)
+A full-stack healthcare platform connecting doctors and patients through digital healthcare workflows.
+- Doctor appointment booking & scheduling, real-time video consultation
+- Medical history management, prescription upload, credit wallet system
+- Payment integration, role-based access control, admin dashboard
+
+`Next.js` `React` `TypeScript` `Prisma` `PostgreSQL` `Vonage`
+
+---
+
+### 🤰 [MedPredict — Maternal & Fetal Health Prediction](https://github.com/ShxshvxtSxth)
+A machine-learning platform for maternal and fetal health prediction, focused on healthcare AI and predictive analytics.
+
+`Python` `Flask` `Scikit-learn` `Machine Learning`
+
+---
+
+### 💊 [Personalized Medical Recommendation System](https://github.com/ShxshvxtSxth)
+An ML-powered system that generates personalized medical recommendations from patient information.
+
+`Python` `Machine Learning` `Flask` `Scikit-learn`
+
+---
+
+### 🌐 [Developer Portfolio](https://github.com/ShxshvxtSxth)
+An interactive portfolio showcasing projects, technical skills, and experience.
+
+`React` `Three.js` `EmailJS`
+
+---
+
+## 🧩 Problem Solving
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-informational?style=for-the-badge&color=2EA3F7"/> <img src="https://img.shields.io/badge/System%20Design-informational?style=for-the-badge&color=2EA3F7"/> <img src="https://img.shields.io/badge/Software%20Architecture-informational?style=for-the-badge&color=2EA3F7"/>
+<img src="https://img.shields.io/badge/API%20Design-informational?style=for-the-badge&color=2EA3F7"/> <img src="https://img.shields.io/badge/AI%20Engineering-informational?style=for-the-badge&color=2EA3F7"/> <img src="https://img.shields.io/badge/Application%20Security-informational?style=for-the-badge&color=2EA3F7"/> <img src="https://img.shields.io/badge/Performance%20Optimization-informational?style=for-the-badge&color=2EA3F7"/>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashvat-seth-516472364)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethshashvat18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShxshvxtSxth)
+
+<br/>
+
+### 🔗 Building at the intersection of AI, software, and real-world problems.
+
+<img src="https://komarev.com/ghpvc/?username=ShxshvxtSxth&style=for-the-badge&color=2EA3F7" alt="Profile Views"/>
 
 </div>
